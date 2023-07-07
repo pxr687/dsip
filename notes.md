@@ -1,5 +1,5 @@
 # "Data Science and Machine Learning in Practice" module notes
-- Module will be taught from 2nd Oct 2023 
+- Module will be taught from 2nd Oct 2023 and runs for 9 weeks
 - Everyone  on the module will know up to: multiple linear regression, 
 k-nearest neighbours, single-predictor logistic regression
 
