@@ -34,7 +34,7 @@ Week 1:
   https://sagol-python-for-neuroscientists.github.io/textbook-public/classes/class_8/class_8.html 
   Exericse involves adding tests to analysing from session 1, collaborating 
   using github.
-* Lab: 
+* Lab: computer setup clinic (installing python, git, VS code)
 
 Week 2:
 
