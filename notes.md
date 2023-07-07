@@ -27,7 +27,8 @@ Week 1 - python ecosystem, open source, git (AKA the problem with notebooks)
 
 # My original vague module plan thoughts
 
-PR's original vague thoughts about content:
+PR's original vague thoughts about content (can be deleted when no longer 
+needed):
 
 Compilation of vague module ideas from our discussion yesterday:
 
