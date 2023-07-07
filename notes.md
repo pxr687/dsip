@@ -1,7 +1,7 @@
 # "Data Science and Machine Learning in Practice" module notes
-    - Module will be taught from 2nd Oct 2023 
-    - Everyone  on the module will know up to: multiple linear regression, 
-    k-nearest neighbours, single-predictor logistic regression
+- Module will be taught from 2nd Oct 2023 
+- Everyone  on the module will know up to: multiple linear regression, 
+k-nearest neighbours, single-predictor logistic regression
 
 # Module rubric
 
