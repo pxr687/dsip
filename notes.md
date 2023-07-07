@@ -2,6 +2,7 @@
 * Module will be taught from 2nd Oct 2023 and runs for 9 weeks
 * Everyone  on the module will know up to: multiple linear regression, 
 k-nearest neighbours, single-predictor logistic regression
+* Two 1.5 hour sessions per week, one 2 hour online lab per week.
 
 # Module rubric
 
@@ -23,7 +24,15 @@ k-nearest neighbours, single-predictor logistic regression
 
 # Module plan
 
-Week 1 - python ecosystem, open source, git (AKA the problem with notebooks)
+Week 1:
+* Session 1: The Problem with Notebooks (introducing scripts + VS code).
+  Show a bad data analysis project, where everything that can go wrong with
+  "sending notebooks via email" does go wrong. Motivate using scripts; exercises
+  involves using scripts to perform a simple analysis. 
+* Session 2: Collaboration, reproducibility and testing (git, github, assert
+  statements). Exericse involves adding tests to analysing from session 1,
+  collaborating using github.
+* Lab: 
 
 # My original vague module plan thoughts
 
