@@ -1,6 +1,6 @@
 # "Data Science and Machine Learning in Practice" module notes
-- Module will be taught from 2nd Oct 2023 and runs for 9 weeks
-- Everyone  on the module will know up to: multiple linear regression, 
+* Module will be taught from 2nd Oct 2023 and runs for 9 weeks
+* Everyone  on the module will know up to: multiple linear regression, 
 k-nearest neighbours, single-predictor logistic regression
 
 # Module rubric
@@ -33,39 +33,39 @@ needed):
 Compilation of vague module ideas from our discussion yesterday:
 
 Unifying ideas behind module structure: 
-- introduce (generalized) linear models - representing traditional 
+* introduce (generalized) linear models - representing traditional 
 statistical methods - first from a computational perspective, and
 then from a formula-based perspective
-- add a "machine learning flavour" to the traditional methods e.g. 
+* add a "machine learning flavour" to the traditional methods e.g. 
 test/train splits, cross validation
-- use that "machine learning flavour" to introduce machine learning
+* use that "machine learning flavour" to introduce machine learning
 methods, with an emphasis on developing a flexible modelling toolkit,
 selecting methods appropriate for a given research question/aim
                
 # Part 1: GLMs
 
 Multiple linear regression
-- Introduce multiple predictor linear regression
-- Introduce dummy coding via a dummy coded predictor variable (this
+* Introduce multiple predictor linear regression
+* Introduce dummy coding via a dummy coded predictor variable (this
  will link nicely with logistic regression? E.g. but what if want to use
 a binary categorical variable as our outcome?)
 
 Logistic regression
-- introduce single predictor logistic model (using existing textbook page)
-- once the computational approach has been shown, show the likelihood
+* introduce single predictor logistic model (using existing textbook page)
+* once the computational approach has been shown, show the likelihood
  formula (e.g. how we can obtain the same parameter estimates via the 
 formula-based approach), use that as a springboard for the next topic
                  
 How to read a formula: the mathematics of the linear model
-- gentle intro, linking python functions (np.sum etc) to their
+* gentle intro, linking python functions (np.sum etc) to their
  equivalent mathematical notation (summation symbol etc.)
-- python-based demonstrations of all the rules that will be used to
+* python-based demonstrations of all the rules that will be used to
  show the mathematics of the linear model (e.g. where students can
  change the input values and see that the rule is always true, e.g.
  distribution of summation signs etc.)
-- Just a note: it is possible to print latex equations with "live"
+* Just a note: it is possible to print latex equations with "live"
  variables, might be useful in this part...
-- show mathematics relevant to linear model: algebra of sums; 
+* show mathematics relevant to linear model: algebra of sums; 
  proofs for z score distribution (mean of 0, SD of 1)
                  
 Poisson regression: 
