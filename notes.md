@@ -30,8 +30,10 @@ Week 1:
   "sending notebooks via email" does go wrong. Motivate using scripts; exercises
   involves using scripts to perform a simple analysis. 
 * Session 2: Collaboration, reproducibility and testing (git, github, assert
-  statements). Exericse involves adding tests to analysing from session 1,
-  collaborating using github.
+  statements). Motivate testing using example from: 
+  https://sagol-python-for-neuroscientists.github.io/textbook-public/classes/class_8/class_8.html 
+  Exericse involves adding tests to analysing from session 1, collaborating 
+  using github.
 * Lab: 
 
 Week 2:
