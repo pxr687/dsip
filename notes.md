@@ -29,14 +29,14 @@ Week 1:
   Show a bad data analysis project, where everything that can go wrong with
   "sending notebooks via email" does go wrong. Motivate using scripts; exercises
   involves using scripts to perform a simple analysis. 
-* Session 2: Collaboration, reproducibility and testing (git, github, assert
-  statements). Motivate testing using example from: 
-  https://sagol-python-for-neuroscientists.github.io/textbook-public/classes/class_8/class_8.html 
-  Exericse involves adding tests to analysing from session 1, collaborating 
-  using github.
+* Session 2: Collaboration (git, github). 
 * Lab: computer setup clinic (installing python, git, VS code)
 
 Week 2:
+* Session 1: reproducibility and testing. Motivate testing using example from: 
+  https://sagol-python-for-neuroscientists.github.io/textbook-public/classes/class_8/class_8.html 
+  Exericse involves adding tests to analysing from session 1, collaborating 
+  using github.
 
 Week 3:
 
