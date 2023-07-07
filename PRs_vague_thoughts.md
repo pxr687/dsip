@@ -46,12 +46,13 @@ Poisson regression:
 Poisson GLM by minimizing it’s negative log likelihood formula.
 
 GLM sum-up:
-* Emphasise that generalized linear models all fit a linear regression line/surface on some scale
-e.g. on the scale of the link function (log odds, or log etc.). So the principles for including
-multiple predictors are the same as for the linear regression model (can be dummy coded,
-can be continuous) etc, essentially the linear model is being adjusted (generalized) to let
-it be used with different types of outcome variable. This gives a flexible modelling framework,
-use this “modelling mindset” as a link to the next section…
+* Emphasise that generalized linear models all fit a linear regression 
+line/surface on some scale e.g. on the scale of the link function (log odds, 
+or log etc.). So the principles for including multiple predictors are the same
+as for the linear regression model (can be dummy coded, can be continuous) etc,
+essentially the linear model is being adjusted (generalized) to let it be used
+ with different types of outcome variable. This gives a flexible modelling 
+framework, use this “modelling mindset” as a link to the next section…
                
 # Part 2: Model Comparison and Model Building 
 
@@ -64,7 +65,8 @@ use this “modelling mindset” as a link to the next section…
 * use simulation to show why test/train splits etc. are important, e.g.
    using population data simulate what happens if different labs do and
    don’t use these techniques
-               - use this section as a springboard into machine learning in next section
+               - use this section as a springboard into machine learning in next
+                section
                
 # Part 3: Machine Learning
 *  introduce K-means classifier (maybe modify existing page to use test/train split,
